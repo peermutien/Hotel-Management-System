@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "data.exception",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception'"
+  },
+  {
+    "name": "mvc.pathmatch.matching-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'mvc.pathmatch.matching-strategy'"
+  },
+  {
+    "name": "servlet.context-path",
+    "type": "java.lang.String",
+    "description": "A description for 'servlet.context-path'"
+  }
+]}
